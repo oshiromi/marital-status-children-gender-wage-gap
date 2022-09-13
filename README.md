@@ -3,7 +3,7 @@
 The gender pay gap is still an issue in most countries around the world. Therefore, studying which other factors other than gender alone can explain this phenomenon is important. For example, there is a wage difference that can be usually observed between mothers and women without children (Cukrowska-
 Torzewska & Lovasz 2016). Similarly, the usually implicit, but uneven housework distribution among couples living together could also be a source of disadvantage To find out whether factoring in household and motherhood responsibilities can improve our understanding of the gender pay gap, this paper will address the following research question: Does living with a partner and living with children influence the wage difference between women and men?
 
-# Bibliography and dataset
+ ## Bibliography and dataset
 
 Cukrowska-Torzewska, Eva and Anna Lovasz “Are children driving the gender wage gap? Comparative
 evidence from Poland and Hungary.” _Economics of Transition_ 24, no.5 (2016): 259–297. DOI:
